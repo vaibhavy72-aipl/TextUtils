@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vaibhavy72-aipl/TextUtils.git/static/css/main.c6a2643d.css",
+    "main.js": "/vaibhavy72-aipl/TextUtils.git/static/js/main.c566c695.js",
+    "static/js/787.c88548d8.chunk.js": "/vaibhavy72-aipl/TextUtils.git/static/js/787.c88548d8.chunk.js",
+    "index.html": "/vaibhavy72-aipl/TextUtils.git/index.html",
+    "main.c6a2643d.css.map": "/vaibhavy72-aipl/TextUtils.git/static/css/main.c6a2643d.css.map",
+    "main.c566c695.js.map": "/vaibhavy72-aipl/TextUtils.git/static/js/main.c566c695.js.map",
+    "787.c88548d8.chunk.js.map": "/vaibhavy72-aipl/TextUtils.git/static/js/787.c88548d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6a2643d.css",
+    "static/js/main.c566c695.js"
+  ]
+}
